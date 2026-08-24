@@ -39,46 +39,80 @@ I probably want to build it.
 
 <h2 align="center">⚡ Things I Build With</h2>
 
-<table align="center">
+<h3 align="center">🤖 AI & Machine Learning</h3>
 
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
-### 🤖 AI & Software
+<p align="center">
+  NumPy · Pandas · scikit-learn · NLP · Transformers · LLMs · RAG
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,react,nextjs,typescript,javascript,java,c,cpp" />
+<br>
 
-</td>
+<h3 align="center">💻 Software & Product Development</h3>
 
-<td align="center" width="50%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,java,c,cpp" />
+</p>
 
-### ⚙️ Engineering & Hardware
+<p align="center">
+  PostgreSQL · Supabase · Firebase · API Integration
+</p>
 
-<img src="https://skillicons.dev/icons?i=arduino,blender" />
+<br>
 
-<br><br>
+<h3 align="center">⚙️ Mechanical Engineering & Simulation</h3>
 
-`SolidWorks` · `Fusion 360` · `KiCad` · `CFD`
+<p align="center">
+  SolidWorks · Fusion 360 · Autodesk Inventor · CFD · Aerodynamics
+</p>
 
-</td>
-</tr>
+<p align="center">
+  DFM · Tolerance Analysis · Numerical Methods · Structural Analysis · Materials Science
+</p>
 
-<tr>
-<td align="center">
+<br>
 
-### 🗄️ Backend
+<h3 align="center">🚀 Aerospace, Hardware & Prototyping</h3>
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 
-</td>
+<p align="center">
+  ESP32 · PCB Design · Circuit Design · Embedded Systems · CanSat Systems · 3D Printing · Additive Manufacturing
+</p>
 
-<td align="center">
+<br>
 
-### 🛠️ Tools
+<h3 align="center">🛠️ Tools & Engineering Workflow</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,matlab,blender,linux,vscode" />
+</p>
 
-</td>
-</tr>
+<p align="center">
+  Simulation · Data Visualization · Technical Documentation · Research & Optimization
+</p>
 
-</table>
+
+<h2>🧪 Build Log</h2>
+
+```text
+[ACTIVE]    SuperNotebook
+            AI-powered knowledge & learning system
+
+[ACTIVE]    AI / LLM Experiments
+            Transformers, RAG and retrieval optimization
+
+[RESEARCH]  CanSat Systems
+            Design · Simulation · Flight Systems
+
+[RESEARCH]  Aerodynamic Optimization
+            CFD-driven Formula-style nose cone research
+
+[SHIPPED]   Lockin
+            A focus and productivity application
+
