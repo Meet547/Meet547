@@ -37,82 +37,20 @@ Research & Prototyping
 If I can imagine it,
 I probably want to build it.
 
-<h2 align="center">⚡ Things I Build With</h2>
-
-<h3 align="center">🤖 AI & Machine Learning</h3>
+<h2 align="center">📡 Mission Metrics</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+🏆 AIR 1 &nbsp;&nbsp;•&nbsp;&nbsp;
+🌏 Asia Rank 4 &nbsp;&nbsp;•&nbsp;&nbsp;
+🌍 World Rank 7
+
 </p>
 
 <p align="center">
-  NumPy · Pandas · scikit-learn · NLP · Transformers · LLMs · RAG
+
+99.4% Overall Evaluation &nbsp;•&nbsp;
+99.8% Testing Performance
+
 </p>
-
-<br>
-
-<h3 align="center">💻 Software & Product Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,java,c,cpp" />
-</p>
-
-<p align="center">
-  PostgreSQL · Supabase · Firebase · API Integration
-</p>
-
-<br>
-
-<h3 align="center">⚙️ Mechanical Engineering & Simulation</h3>
-
-<p align="center">
-  SolidWorks · Fusion 360 · Autodesk Inventor · CFD · Aerodynamics
-</p>
-
-<p align="center">
-  DFM · Tolerance Analysis · Numerical Methods · Structural Analysis · Materials Science
-</p>
-
-<br>
-
-<h3 align="center">🚀 Aerospace, Hardware & Prototyping</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-<p align="center">
-  ESP32 · PCB Design · Circuit Design · Embedded Systems · CanSat Systems · 3D Printing · Additive Manufacturing
-</p>
-
-<br>
-
-<h3 align="center">🛠️ Tools & Engineering Workflow</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,matlab,blender,linux,vscode" />
-</p>
-
-<p align="center">
-  Simulation · Data Visualization · Technical Documentation · Research & Optimization
-</p>
-
-
-<h2>🧪 Build Log</h2>
-
-```text
-[ACTIVE]    SuperNotebook
-            AI-powered knowledge & learning system
-
-[ACTIVE]    AI / LLM Experiments
-            Transformers, RAG and retrieval optimization
-
-[RESEARCH]  CanSat Systems
-            Design · Simulation · Flight Systems
-
-[RESEARCH]  Aerodynamic Optimization
-            CFD-driven Formula-style nose cone research
-
-[SHIPPED]   Lockin
-            A focus and productivity application
 
