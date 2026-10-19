@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · meet547</sub></p>
 <h1>Meet Rajesh Pardeshi</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack engineer</h2>
 <p>Building AI companies, not demos. Founder @ Lockin &amp; Draftzi. Mechanical Engineer. AI/ML • RAG • LLM Systems • Shipping products weekly. CanSat AIR 1 🇮🇳.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in India,Mumbai</sub></p>
